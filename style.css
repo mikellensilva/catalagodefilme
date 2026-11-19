@@ -29,3 +29,15 @@ max-width: 100%;
 display: block;
 object-fit: contain;
 }
+
+titulo-filme-1{
+font-size: 64px;
+line-height: 150px;
+-webkit-text-stroke-color: rgb(255, 255, 255);
+-webkit-text-stroke-width: 2px;
+color: black;
+font-family: irish grover;
+align-items: center;
+margin: 0;
+margin-top: 20px;
+}
