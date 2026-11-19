@@ -2,7 +2,7 @@ body{
 background-color: rgb(142, 30, 247);
 
 }
-.cabeçalho {
+cabeçalho {
 margin-bottom: 0px;
 display: flex;
 justify-content: space-around;
@@ -10,16 +10,22 @@ align-items: center;
 border: 2px solid green;
 }
 
-.cabeçalho-titulo {
-color: black;
-font-size: 120px;
-font-family: "irish grover";
-background-color: rgba(180, 181, 184, 0.8);
-border: 2px solid rgb(20, 55, 20);
-padding: 20px;
-padding-top: 10px;
-border-radius: 5px;
+  cabeçalho-titulo {
+      color: black;
+      font-size: 120px;
+      font-family: "irish grover";
+      background-color: rgba(180, 181, 184, 0.8);
+      border: 2px solid rgb(20, 55, 20);
+      padding: 20px;
+      padding-top: 10px;
+      border-radius: 5px;
 
 }
 
-imagem.
+imagem-logo{
+height: 48px;
+width: auto;
+max-width: 100%;
+display: block;
+object-fit: contain;
+}
