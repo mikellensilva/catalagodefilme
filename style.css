@@ -2,7 +2,7 @@ body{
 background-color: rgb(142, 30, 247);
 
 }
--cabeçalho {
+.cabeçalho {
 margin-bottom: 0px;
 display: flex;
 justify-content: space-around;
@@ -10,7 +10,7 @@ align-items: center;
 border: 2px solid green;
 }
 
-  cabeçalho-titulo {
+  .cabeçalho-titulo {
       color: black;
       font-size: 120px;
       font-family: "irish grover";
@@ -22,7 +22,7 @@ border: 2px solid green;
 
 }
 
-imagem-logo{
+.imagem-logo{
 height: 48px;
 width: auto;
 max-width: 100%;
@@ -30,7 +30,7 @@ display: block;
 object-fit: contain;
 }
 
-titulo-filme-1{
+.titulo-filme-1{
 font-size: 64px;
 line-height: 150px;
 -webkit-text-stroke-color: rgb(255, 255, 255);
